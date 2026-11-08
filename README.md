@@ -1,7 +1,7 @@
 # **Gerenciador de Tarefas Bacanudo**
 
 Uma aplicação web simples, moderna e totalmente responsiva para gerenciamento e acompanhamento de tarefas diárias com prazos.
-Patrocinado por: Babau do Pandeiro Corporation 
+Patrocinado por: Babau do Pandeiro Corporation ©
 
 ## Funcionalidades Implementadas
 ### CRUD Completo de Tarefas
